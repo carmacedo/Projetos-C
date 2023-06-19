@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1465919816 source:c:\users\psi15b15\documents\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1684851245 source:c:\users\carla.macedo\desktop\projetos\onedrive_2023-05-23\prj josé leal\quiz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+

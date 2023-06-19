@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1466800474 source:c:\users\josé\desktop\prj josé\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1465984253 c:\users\josé\desktop\prj josé\prj.h
+
+1466800641 c:\users\josé\desktop\prj josé\opcao1.h
+
+1465985005 c:\users\josé\desktop\prj josé\opcao2.h
+
+1466517380 source:e:\prj josé\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1466518678 e:\prj josé\opcao1.h
+
+1466170582 e:\prj josé\opcao2.h
+
+1466609436 source:e:\trabalhos escola\prj josé\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1466609154 e:\trabalhos escola\prj josé\opcao1.h
+
+1467034551 source:c:\users\psi15b15\downloads\prj josé leal\prj josé leal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1467035530 c:\users\psi15b15\downloads\prj josé leal\prj josé leal\opcao1.h
+
+1467041222 source:c:\users\professor\desktop\prj josé leal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1467041564 c:\users\professor\desktop\prj josé leal\opcao1.h
+
+1467044824 source:f:\prj_tgpsi1b\prj josé leal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1467045166 f:\prj_tgpsi1b\prj josé leal\opcao1.h
+
+1467048424 source:c:\users\cm\desktop\exemplosprj\prj josé leal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1467048766 c:\users\cm\desktop\exemplosprj\prj josé leal\opcao1.h
+
+1684851245 source:c:\users\carla.macedo\desktop\projetos\onedrive_2023-05-23\prj josé leal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	"opcao1.h"
+
+1684851245 c:\users\carla.macedo\desktop\projetos\onedrive_2023-05-23\prj josé leal\opcao1.h
+
